@@ -1,0 +1,14 @@
+1. HTML Document Strucutre
+	IMP Tags: Html,head,title,body
+2. Tags, Elements, Attributes
+	List of Tags: 
+	1. text, H1-H6, hr, sub, sup, time, del, alt
+	2. p, br, b , i, s 9Strike), u (underline)
+	3. textarea, button
+3. Tables, Lists, Layouts
+4. Forms, Media, Storage
+	Form Tags: 
+	1. form, input, text area, button, select, label,
+	Media Tags:
+	2. img, svg, area, canvas (requires scripting), audio, source, video, track
+5. Links: a, link, nav, (scroll to #id)
